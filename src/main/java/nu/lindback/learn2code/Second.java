@@ -1,6 +1,6 @@
-package nu.lindback;
+package nu.lindback.learn2code;
 
-public class Move {
+public class Second {
     private int x;
     private int y;
 

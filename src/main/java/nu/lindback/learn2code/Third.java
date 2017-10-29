@@ -1,6 +1,6 @@
-package nu.lindback;
+package nu.lindback.learn2code;
 
-public class Car {
+public class Third {
     private int y;
     private int x;
 
